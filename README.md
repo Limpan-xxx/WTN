@@ -10,3 +10,4 @@ git commit {
 git push {
     Pushar upp till github.
 }
+hello
